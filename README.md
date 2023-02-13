@@ -48,7 +48,7 @@ After we analyzed the data and reached findings we used Power BI to visualize th
 - make sure to use non-distracting colors or too many of them to keep the attention focused
 - creating a dashboard that contains all necessary plots to make a connection between findings 
 
-#### 3- Report Analysis Stage
+#### 3- Analysis Report Stage
 ------------------------------------------------------------
 The final step is to create a full analysis report that is easy to read and understand for any non-technical reader, which contains the following:
 - Description of the project and data
