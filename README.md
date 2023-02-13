@@ -1,5 +1,6 @@
-# Sales-Analysis
-Set of real world data science tasks completed using the Python Pandas library
+# Sales Analysis of Electronic Store
+
+Full analysis of Electronic Store sales which include set of real world data science tasks completed using the Python Pandas library
 
 ## Setup
 
