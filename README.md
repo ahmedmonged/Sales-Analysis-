@@ -43,7 +43,7 @@ To answer these questions we walk through many different pandas & matplotlib met
 
 #### 2- Visualization Stage
 ------------------------------------------------------------
-After we analyzed the data and reached findings we used Power BI to visualize the data and our findings with taking into consideration the following:
+After we completed the analysis and discovered findings we used Power BI to visualize the data and our findings with taking into consideration the following:
 - Plotting different types of charts and choosing the appropriate one based on the type and the nature of the data we want to illustrate
 - making sure to select suitable and easy-to-understand plot 
 - make sure to use non-distracting colors or too many of them to keep the attention focused
