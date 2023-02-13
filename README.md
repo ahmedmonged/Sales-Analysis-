@@ -9,6 +9,7 @@ The other option is to click the green "clone or download" button and then click
 
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
+Download Power BI : https://powerbi.microsoft.com/en-us/desktop/
 
 ## Background Information:
 
@@ -16,7 +17,8 @@ In this project we use Python Pandas & Python Matplotlib to analyze and answer b
 
 ## Project Steps
 
-#### Notebook Stage
+#### 1- Notebook Stage
+------------------------------------------------------------
 We start by cleaning our data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
@@ -38,14 +40,16 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
-#### Visualization Stage
+#### 2- Visualization Stage
+------------------------------------------------------------
 After we analyzed the data and reached findings we used Power BI to visualize the data and our findings with taking into consideration the following:
 - Plotting different types of charts and choosing the appropriate one based on the type and the nature of the data we want to illustrate
 - making sure to select suitable and easy-to-understand plot 
 - make sure to use non-distracting colors or too many of them to keep the attention focused
 - creating a dashboard that contains all necessary plots to make a connection between findings 
 
-#### Report Analysis Stage
+#### 3- Report Analysis Stage
+------------------------------------------------------------
 The final step is to create a full analysis report that is easy to read and understand for any non-technical reader, which contains the following:
 - Description of the project and data
 - Stating key points and Questions we are answering
