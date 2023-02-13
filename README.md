@@ -57,4 +57,4 @@ The final step is to create a full analysis report that is easy to read and unde
 - Stating key points and Questions we are answering
 - Answering in detail each question in addition to adding the necessary plots
 - Stating our findings and important information found
-- Add recommendations and suggestions based on the data and our findings to improve 
+- Add recommendations and suggestions based on the data and our findings to improve the process
