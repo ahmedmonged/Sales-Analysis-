@@ -1,20 +1,20 @@
 # Sales Analysis of Electronic Store
 
-Full analysis of Electronic Store sales which include set of real world data science tasks completed using the Python Pandas library
+Full analysis of Electronic Store sales which includes a set of real-world data science tasks completed using the Python Pandas library
 
 ## Setup
 
 To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 
-However the other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
+However, the other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html <br/>
-Download Power BI : https://powerbi.microsoft.com/en-us/desktop/
+Download Power BI: https://powerbi.microsoft.com/en-us/desktop/
 
 ## Background Information:
 
-In this project we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
+In this project, we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months' worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 ## Project Steps
 
