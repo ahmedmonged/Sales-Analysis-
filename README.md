@@ -2,6 +2,8 @@
 
 Full analysis of Electronic Store sales which includes a set of real-world data science tasks completed using the Python Pandas library
 
+![store-tile-2-store](https://github.com/ahmedmonged/Sales-Analysis-/assets/69379730/f8796132-09a8-4d9a-806a-ccd9eb20a96b)
+
 ## Setup
 
 To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: [About Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
