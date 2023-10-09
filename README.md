@@ -6,7 +6,7 @@ Full analysis of Electronic Store sales which includes a set of real-world data 
 
 To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: [About Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-**However**, the other option is to **work locally** by clicking the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
+**However**, the other option is to **work locally** by clicking the green "clone or download" button and then clicking "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 
 
 #### What you need to work locally
@@ -38,15 +38,17 @@ In this project, we use Python Pandas & Python Matplotlib to analyze and answer 
 
 #### 1- Notebook Stage
 ------------------------------------------------------------
+This is the stage where we work with Python using the [Notebook](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20notebook.ipynb) to write code to accomplish tasks
+
 We start by cleaning our data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
 
-Once we have cleaned up our data a bit, we move to the data exploration section. In this section we explore 6 high level business questions related to our data:
+Once we have cleaned up our data a bit, we move to the data exploration section. In this section, we explore 6 high-level business questions related to our data:
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
-- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+- What time should we display advertisements to maximize the likelihood of customers buying products?
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 - What type of products make up the most revenue?
@@ -56,13 +58,13 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Adding columns
 - Parsing cells as strings to make new columns (.str)
 - Using the .apply() method
-- Using groupby to perform aggregate analysis
-- Plotting bar charts and lines graphs to visualize our results
+- Using group by to perform aggregate analysis
+- Plotting bar charts and line graphs to visualize our results
 - Labeling our graphs
 
 #### 2- Visualization Stage
 ------------------------------------------------------------
-After we completed the analysis and discovered findings we used Power BI to visualize the data and our findings with taking into consideration the following:
+After we completed the analysis and discovered findings we used Power BI to create a [Dashboard](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20Dashboard.pdf) to visualize the data and our findings with taking into consideration the following:
 - Plotting different types of charts and choosing the appropriate one based on the type and the nature of the data we want to illustrate
 - making sure to select suitable and easy-to-understand plot 
 - make sure to use non-distracting colors or too many of them to keep the attention focused
@@ -70,7 +72,7 @@ After we completed the analysis and discovered findings we used Power BI to visu
 
 #### 3- Analysis Report Stage
 ------------------------------------------------------------
-The final step is to create a full analysis report that is easy to read and understand for any non-technical reader, which contains the following:
+The final step is to create a full [Analysis Report ](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Analysis%20Report.pdf)that is easy to read and understand for any non-technical reader, which contains the following:
 - Description of the project and data
 - Stating key points and Questions we are answering
 - Answering in detail each question in addition to adding the necessary plots
