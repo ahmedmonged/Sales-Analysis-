@@ -18,11 +18,13 @@ In this project, we use Python Pandas & Python Matplotlib to analyze and answer 
 
 ## Files
 - [Data.zip](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Data/Data.zip) : The Data of Electronic Store sales.
-- [Analysis Report.pdf](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Analysis%20Report.pdf) : The Report summarizes findings, conclusions, and recommendations.  
-- [Sales Analysis Dashboard.pbix](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20Dashboard.pbix) : Power BI Dashboard in pbix format(Power BI file format).
-- [Sales Analysis Dashboard.pdf](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20Dashboard.pdf) : Power BI Dashboard in PDF format.
 - [Sales Analysis notebook.ipynb](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20notebook.ipynb) : The Notebook that has all the work from codes, Step-by-step explanations, and conclusions.
 - [Sales Analysis notebook.html](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20notebook.html) : The Notebook but in HTML format so it can be opened with a browser.
+- [Analysis Report.pdf](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Analysis%20Report.pdf) : The Report summarizes findings, conclusions, and recommendations.
+- [Sales Analysis Dashboard.pdf](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20Dashboard.pdf) : Power BI Dashboard in PDF format.
+- [Sales Analysis Dashboard.pbix](https://github.com/ahmedmonged/Sales-Analysis-/blob/main/Analysis%20and%20related%20files/Sales%20Analysis%20Dashboard.pbix) : Power BI Dashboard in pbix format(Power BI file format).
+  
+
 
 
 
