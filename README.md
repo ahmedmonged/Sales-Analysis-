@@ -4,13 +4,18 @@ Full analysis of Electronic Store sales which includes a set of real-world data 
 
 ## Setup
 
-To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: [About Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-However, the other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
+**However**, the other option is to **work locally** by clicking the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 
-Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
-Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html <br/>
-Download Power BI: https://powerbi.microsoft.com/en-us/desktop/
+
+#### What you need to work locally
+
+[Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+
+[Installing Pandas library](https://pandas.pydata.org/pandas-docs/stable/install.html)
+
+[Download Power BI](https://powerbi.microsoft.com/en-us/desktop/)
 
 ## Background Information:
 
@@ -29,7 +34,7 @@ In this project, we use Python Pandas & Python Matplotlib to analyze and answer 
 
 
 
-## Project Steps
+## Project Stages
 
 #### 1- Notebook Stage
 ------------------------------------------------------------
