@@ -1,4 +1,4 @@
-# Sales Analysis of Electronic Store
+# Sales Analysis of Electronic Store 
 
 Full analysis of Electronic Store sales which includes a set of real-world data science tasks completed using the Python Pandas library
 
