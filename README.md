@@ -1,6 +1,6 @@
 # Sales Analysis of Electronic Store 
 
-Full analysis of Electronic Store sales which includes a set of real-world data science tasks completed using the Python Pandas library
+Full analysis of Electronic Store sales which includes a set of real-world data science tasks completed using the Python Pandas library and with the help of Power BI 
 
 ![store-tile-2-store](https://github.com/ahmedmonged/Sales-Analysis-/assets/69379730/f8796132-09a8-4d9a-806a-ccd9eb20a96b)
 
